@@ -1,4 +1,4 @@
-# How-long-a-word-
+# How-long-is a-word-
 #include "std_lib_facilities.h"
 
 int main()
